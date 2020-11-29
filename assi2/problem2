@@ -1,0 +1,4 @@
+[Problem 2] In this problem we are asking for implementation of a function, g, that returns the
+frequency of alphabet letters in a given string ignoring upper/lower case issues.
+Use whatever programming language you are most comfortable with, although we prefer to see
+standard scripting languages used.

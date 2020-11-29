@@ -1,0 +1,7 @@
+{
+    "PORT": 3001,
+    "MONGO_URI": "mongodb://localhost:27017/home",
+    "ORIGIN": "*",
+    "METHODS": "GET, POST, OPTIONS",
+    "JWT_KEY":"123#4jhidyab((90dn&*$"
+}
